@@ -1,8 +1,7 @@
 # BTC-CHECKER
 
 # Description
-This Python script is designed to generate a specified number of Bitcoin wallets, each comprising a private key and a corresponding public address. The script utilizes cryptographic libraries to ensure the secure generation of these wallets. It's been updated for compatibility with Python 3 and includes enhancements for user interaction and feedback.
-
+This Python script is designed to generate a specified number of Bitcoin wallets, each comprising a private key and a corresponding public address. The script utilizes cryptographic libraries to ensure the secure generation of these wallets.
 # Features
 - **Wallet Generation:** Generates Bitcoin wallets, including private keys and public addresses.
 
